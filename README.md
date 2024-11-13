@@ -8,3 +8,7 @@ Welcome to the Django Polls App! This is a simple application built by following
 - An easy-to-use admin interface for managing polls and their choices.
 - Fully tested to ensure everything works smoothly.
 - Integrated with Django Debug Toolbar to make debugging a breeze during development.
+
+## Additional Resources
+
+- [Check out my development notes here](NOTES.md) to see a detailed breakdown of key concepts and learnings from this project.
